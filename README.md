@@ -27,3 +27,5 @@ SPECTRA is designed for researchers and hobbyists who want to test and analyze s
 
 SPECTRA is released under the MIT License.
 We kindly request that if you use this project or find it helpful, please consider giving credit to Spark Tech by including a link to our website (https://www.thesparktech.xyz/) or mentioning us in your project video, blog or any other documentation. We greatly appreciate your support!
+
+![Copy of SOLID PROPELLANT ENGINE CHRATERIZATION   TEST RIG FOR AEROSPASE](https://user-images.githubusercontent.com/114058080/232122521-a5eb09c7-46fc-4cbe-abc2-7dce2e765e35.png)
