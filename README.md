@@ -24,4 +24,4 @@ SPECTRA is designed for researchers and hobbyists who want to test and analyze s
 ## LICENSE:
 
 SPECTRA is released under the MIT License.
-We kindly request that if you use this project or find it helpful, please consider giving credit to Spark Tech by including a link to our website [SPARK TECH](https://www.thesparktech.xyz/) or mentioning us in your project video, blog or any other documentation. We greatly appreciate your support!
+We kindly request that if you use this project or find it helpful, please consider giving credit to Spark Tech by including a link to our website [SPARK TECH](https://www.thesparktech.xyz/) (https://www.thesparktech.xyz/) or mentioning us in your project video, blog or any other documentation. We greatly appreciate your support!
