@@ -1,3 +1,5 @@
+![SOLID PROPELLANT ENGINE CHRATERIZATION   TEST RIG FOR AEROSPASE](https://user-images.githubusercontent.com/114058080/232119290-8070f7f0-36c9-4c42-bbb2-acc829bb49f2.png)
+
 # SPECTRA - SOLID PROPELLANT ENGINE CHARATERIZATION & TEST RIG FOR AEROSPACE
 
 SPECTRA is a Solid Propellant Model Rocket Motor Test Stand designed by Spark Tech. This project aims to create a testing platform for model rocket motor, allowing researchers and hobbyists to analyze and test solid propellant rocket motor in a safe and controlled environment.
