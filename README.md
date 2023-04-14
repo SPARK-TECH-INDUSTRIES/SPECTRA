@@ -23,6 +23,10 @@ The load cell and HX711 sensor are used to measure the thrust produced by the ro
 
 SPECTRA is designed for researchers and hobbyists who want to test and analyze solid propellant rocket engines in a safe and controlled environment. The open-source design and analysis allow for customization and modification to meet individual needs and requirements.
 
+## DOCUMENTATION:
+
+[SOLID_ROCKET_MOTOR_TEST_STAND_V.1_REPORT.pdf](https://github.com/SPARK-TECH-INDUSTRIES/noparkingsys/files/11236248/SOLID_ROCKET_MOTOR_TEST_STAND_V.1_REPORT.pdf)
+
 ## LICENSE:
 
 SPECTRA is released under the MIT License.
