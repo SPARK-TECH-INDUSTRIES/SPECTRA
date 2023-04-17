@@ -25,7 +25,7 @@ SPECTRA is designed for researchers and hobbyists who want to test and analyze s
 
 ## DOCUMENTATION:
 
-[SOLID_ROCKET_MOTOR_TEST_STAND_V.1_REPORT.pdf](https://github.com/SPARK-TECH-INDUSTRIES/noparkingsys/files/11236248/SOLID_ROCKET_MOTOR_TEST_STAND_V.1_REPORT.pdf)
+https://drive.google.com/file/d/1G3TB9y0rk_YwBldajNDMylb3C4QBWVsy/view?usp=drivesdk
 
 ## LICENSE:
 
